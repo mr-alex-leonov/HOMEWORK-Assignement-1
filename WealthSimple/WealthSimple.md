@@ -48,7 +48,6 @@ Robo-advisory has evolved quickly in the last decade. Initially gaining ground i
 
 WealthSimple is a notable example in the automated wealth management sector, because it is the largest fintech company in Canada and outside of the USA by AUM (Assets Under Management). It grew its user-base 10-fold since the end of 2019. South of the border, industry competitors are managing significantly bigger sums of money (Vanguard Personal and Digital Advisor Services - US$ 190 B, Schwab Intelligent Portfolios - US$ 68.5 B, Betterment - US$ 33 B, Wealthfront - US$ 27 B, Personal Capital US$ 22.7 B); however, due to its business model, WealthSimple can be best compared to the American-based Robinhood (with estimated US$ 64.2 B in AUM as of 2022). Although they both promise a no fee trading platform, WealthSimple does charge for currency-conversions. As a result, Wealth simple has, on one side, a great revenue model from those clients who prefer investing directly into American companies, while also having a clear cost-saving advantage for trading Canadian-based companies and ETFs. This will allow them to have a solid market share to continue innovating and picking up speed in the near future.
 
-![image][WSMUM.JPG]
 
 
 
