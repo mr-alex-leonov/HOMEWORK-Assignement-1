@@ -12,13 +12,13 @@
 
 *Since it's inception, WealthSimple has undergone multiple funding rounds and, at its peak in 2021, was valued at more than $5 billion CAD*
 
-*Seed Round - CA1.9M*
-*Series A - CA$30M*
-*Series B - CA$70M*
-*Series C - CA$65M*
-*Series D - CA100M*
-*Series E - CA114M*
-*Series F - CA750M*
+**Seed Round - CA1.9M**
+**Series A - CA$30M**
+**Series B - CA$70M**
+**Series C - CA$65M**
+**Series D - CA100M**
+**Series E - CA114M**
+**Series F - CA750M**
 
 
 
@@ -34,7 +34,7 @@ WealthSimple was created to bring the opportunities of the stock market closer t
 
 As of Nov 2021, WealthSimple had over 1.5 million users worldwide and managed $15 billion CAD in assets.
 
-2022 has seen a major slowdown in overall market activity, and, as a result, WealthSimple took a direct hit from receding investor activity. The largest shareholder of WealthSimple, IGM Financial, has re-evaluated its WealthSimple assets at by 20% less in May of 2022 and then again by nearly half in August of 2022, notably claiming that the re-evaluation is in line with the overall forecast of the upcoming economic downturn and not because of WealthSimple performance or declining potential.
+2022 has seen a major slowdown in overall market activity, and, as a result, WealthSimple took a direct hit from receding investor activity. The largest shareholder of WealthSimple, IGM Financial, has re-evaluated its WealthSimple assets by 20% less in May of 2022 and then again by nearly half in August of 2022, notably claiming that the re-evaluation is in line with the overall forecast of the upcoming economic downturn and not because of WealthSimple performance or declining potential.
 
 #
 
@@ -44,11 +44,11 @@ WealthSimple has grown into a leading Fintech player in Canada and is continues 
 
 **Robo-Advisory powered by AI**
 
-Robo-advisory has evolved quickly in the last decade. Initially gaining ground in the investment world following the 2008 financial crisis in the USA, Robo-advisory has seen a wider adoption starting in 2015 around the globe. Since 2020, with the emergence of global COVID pandemic, automated robo-advisors have taken a great significantly bigger share in private and business investment sector, largely driven by young millennials. The largest contributing factor to the growth of robo-advisory sector became the capturing of low and mid-level retail investors. Previously, an average investor had to invest at least $50,000 to utilize the service of a financial planner. On the other hand, robo-advisory investments start from as low as $1.
+Robo-advisory has evolved quickly in the last decade. Initially gaining ground in the investment world following the 2008 financial crisis in the USA, Robo-advisory has seen a wider adoption starting in 2015 around the globe. Since 2020, with the emergence of global COVID pandemic, automated robo-advisors have taken a significantly bigger share in private and business investment sector, largely driven by young millennials. The largest contributing factor to the growth of robo-advisory sector became the capturing of low and mid-level retail investors. Previously, an average investor had to invest at least $50,000 to utilize the service of a financial planner. On the other hand, robo-advisory investments start from as low as $1.
 
 WealthSimple is a notable example in the automated wealth management sector, because it is the largest fintech company in Canada and outside of the USA by AUM (Assets Under Management). It grew its user-base 10-fold since the end of 2019. South of the border, industry competitors are managing significantly bigger sums of money (Vanguard Personal and Digital Advisor Services - US$ 190 B, Schwab Intelligent Portfolios - US$ 68.5 B, Betterment - US$ 33 B, Wealthfront - US$ 27 B, Personal Capital US$ 22.7 B); however, due to its business model, WealthSimple can be best compared to the American-based Robinhood (with estimated US$ 64.2 B in AUM as of 2022). Although they both promise a no fee trading platform, WealthSimple does charge for currency-conversions. As a result, Wealth simple has, on one side, a great revenue model from those clients who prefer investing directly into American companies, while also having a clear cost-saving advantage for trading Canadian-based companies and ETFs. This will allow them to have a solid market share to continue innovating and picking up speed in the near future.
 
-![image]("wealthsimple_money_under_management.jpg)
+![image](wealthsimple_money_under_management.jpg)
 
 **The Future of WealthSimple and Recommendations**
 
